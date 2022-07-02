@@ -3,7 +3,7 @@ Icones Social  Drawings Maxime Theneau
 
 ## [Demo](https://maximethe.github.io/iconesSocial/)
 
-![Wireframe Une Taupe Chez Vous](/docs/images/wireframe.jpg "Wireframe Une Taupe Chez Vous")
+ <span class="icon-twitter"></span>
 
 ## Installer
 

@@ -20,3 +20,21 @@ body {
   font-size: 2rem;
   border-bottom: 0.1em solid;
 }
+
+/* list Social Icones Drawings */
+.social {
+  display: block;
+  width: 100%;
+  background: rgb(209, 209, 209);
+  padding: 2rem;
+}
+ul.social-list {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  list-style: none;
+  font-size: 2rem;
+}
+.hover-color:hover{
+  color: aqua;
+}
