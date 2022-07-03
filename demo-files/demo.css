@@ -8,15 +8,14 @@ body {
   align-items: center;
 }
 .icones {
-  font-size: 16px;
-  width: 15em;
-  padding-bottom: 1em;
-  margin-bottom: 1em;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  margin-top: 10%;
   font-size: 2rem;
-  border-bottom: 0.1em solid;
+  border: 0.1em solid;
+}
+th {
+  width: 15%;
+  margin: auto;
+  border: solid;
 }
 a {
   text-decoration: none;
