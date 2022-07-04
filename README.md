@@ -13,3 +13,7 @@ Pour copier le caractère associé à chaque icône, reportez-vous à la zone de
 | Email | GitHub | Twitter | Linkedin |
 |---|---|---|---|
 | icon-email | icon-github | icon-twitter | icon-linkedin |
+
+| Couleur Survol | Effet Survol |
+|---|---|
+| h-color | h-fx |
