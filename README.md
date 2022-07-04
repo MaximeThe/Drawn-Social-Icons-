@@ -2,7 +2,7 @@
 
 Icônes de médias sociaux déssinées à la main, réaliser par Maxime Theneau.
 
-## [Demo](https://maximethe.github.io/Drawn-Social-Icons-/demo-files/demo.html )
+## [Demo](https://maximethe.github.io/Drawn-Social-Icons/demo-files/demo.html )
 
 ![Icon Social Drawn  Theneau Maxime](/demo-files/demo.gif "Icon Social Drawn Theneau Maxime")
 
