@@ -1,6 +1,6 @@
 # Drawn Social Icons
 
-[Docs in english.](./README-ENG)
+[Docs in english.](./README-ENG.md)
 
 Icônes de médias sociaux déssinées à la main, réaliser par Maxime Theneau.
 
