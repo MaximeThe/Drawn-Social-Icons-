@@ -10,16 +10,31 @@ body {
 .icones {
   margin-top: 10%;
   font-size: 2rem;
-  border: 0.1em solid;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-th {
-  width: 15%;
-  margin: auto;
-  border: solid;
+.icon {
+  width: 46%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 0.1rem solid;
+  margin: 1rem 0.1rem;
 }
+h2 {
+  width: 100%;
+  text-align: center;
+}
+
 a {
   text-decoration: none;
   color: #555;
+  transition: color 0.2s ease-in-out;
+}
+a:hover {
+  transition: color 0.2s ease-in-out;
+  color: rgb(226, 195, 149);
 }
 
 /* list Social Icons Drawn */
