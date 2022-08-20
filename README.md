@@ -1,23 +1,14 @@
 # Drawn Social Icons
 
-[Docs in english.](./README-ENG.md)
+[Documentation en français.](./README-FR.md)
 
-Icônes de médias sociaux déssinées à la main, réaliser par Maxime Theneau.
+Hand drawn social media icons, made by Maxime Theneau.
 
-[Demo](https://maximethe.github.io/Drawn-Social-Icons/demo-files/demo.html )
+[Demo](https://maximetheneau.github.io/Drawn-Social-Icons-/demo-files/demo.html )
 
-![Icon Social Drawn  Theneau Maxime](/demo-files/demo.gif "Icon Social Drawn Theneau Maxime")
 
-## Installer
+## Install
 
-Pour copier le caractère associé à chaque icône, reportez-vous à la zone de texte associer à chaque icône.
-
-| Email | GitHub | Twitter | Linkedin |
-|---|---|---|---|
-| icon-email | icon-github | icon-twitter | icon-linkedin |
-
-| Couleur Survol | Effet Survol |
-|---|---|
-| h-color | h-fx |
+To copy the character associated with each icon, see the Associate with Each Icon text box.
 
 #svg #font #police #drawing #draw #art #artist #sketch #artwork #painting #illustrations #vectoriser
