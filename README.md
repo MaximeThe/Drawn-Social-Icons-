@@ -4,7 +4,7 @@
 
 Hand drawn social media icons, made by Maxime Theneau.
 
-[Demo](https://maximetheneau.github.io/Icons-by-Theneau-Maxime/demo-files/demo.html)
+[Demo](https://maximetheneau.github.io/Icons-by-Theneau-Maxime/demo.html)
 
 
 ## Install
