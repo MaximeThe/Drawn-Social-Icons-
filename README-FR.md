@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./demo.css" crossorigin="anonymous" />
 # Drawn Social Icons
 
 [Docs in english.](./README.md)
@@ -5,6 +6,8 @@
 Icônes de médias sociaux déssinées à la main, réaliser par Maxime Theneau.
 
 [Demo](https://maximetheneau.github.io/Icons-by-Theneau-Maxime/demo-files/demo.html )
+
+<i class="icon-twitter"></i>
 
 
 ## Installer
